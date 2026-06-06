@@ -5,4 +5,5 @@ public class Test3 {
 	private static final String name = "Test name 123456789 test";
 	
 	int count = 300;
+	int count2=100;
 }
